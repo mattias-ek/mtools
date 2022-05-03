@@ -26,25 +26,62 @@ If a new plot is created it will be placed at the top left coordinated of the se
 
 If a series name already exists in the plot it will be replaced by the new data. If no y values are given for an existing series then the postion of other series in the plot will not be updated and there is a chance series will overlap if the number of data points changes. In this case it is best to create a new plot instead.
 
-#### Examples
+#### Example 1
 
-Image
-Example 1 - 
+https://user-images.githubusercontent.com/21944548/166474097-691fa83a-5817-4022-96e0-2b60d790b6ab.mov
 
-Image
-Example 2 -
+Creating a XY Scatter plot with two series in two steps.
 
-Image
-Example 3 -
+#### Example 2
+
+https://user-images.githubusercontent.com/21944548/166473729-fa9de08a-988b-4322-8163-87fc97de06f6.mov
+
+Creating a XY scatter plot with two series in one step.
+
+#### Example 3
+
+https://user-images.githubusercontent.com/21944548/166475251-741407b2-4e89-4609-a30f-c5aae32d5115.mov
+
+
+Description
 
 ### XMean
 
+#### Input
+
+
+#### Notes
+
+#### Example
+
+
+
+https://user-images.githubusercontent.com/21944548/166475959-27c507e2-c9e1-4ff5-825a-4ae359ac8f29.mov
+
+
 #### Format markers default
+
+
+
+https://user-images.githubusercontent.com/21944548/166479547-003a0cbc-b5c7-4214-bec0-9b45b3fd348d.mov
+
 
 #### Format markers custom
 TODO Rename icon in ribbon
 
+
+https://user-images.githubusercontent.com/21944548/166479574-74d0e475-a404-45bc-85bd-2ce34fd02c99.mov
+
+
+
+https://user-images.githubusercontent.com/21944548/166479600-90bfa6f7-399c-48f4-90f2-703e6a31c5f7.mov
+
+
 #### Format axis
+
+
+https://user-images.githubusercontent.com/21944548/166480441-eb2ce5ac-36b8-48d1-aeaa-d544d5dbb8eb.mov
+
 
 #### Import EXP data
 
