@@ -36,14 +36,13 @@ Creating a XY Scatter plot with two series in two steps.
 
 https://user-images.githubusercontent.com/21944548/166473729-fa9de08a-988b-4322-8163-87fc97de06f6.mov
 
-Creating a XY scatter plot with two series in one step.
+Creating a XY scatter plot with two series in one step. Since the first cell in the X and Y selections are text they are used as the axis titles.
 
 #### Example 3
 
 https://user-images.githubusercontent.com/21944548/166475251-741407b2-4e89-4609-a30f-c5aae32d5115.mov
 
-
-Description
+Creating a Caltech/Carnegie plot with incremental y values. The size of the plot is the same as the selected cells.
 
 ### XMean
 
