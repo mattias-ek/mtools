@@ -9,8 +9,13 @@ First dowmload the *MTools.xlam* file and save it somewhere sensible on your har
 
 ## Macros
   - [Plot](#-Plot)
-  - [XMean](#XMean)
-  - [Format markers default](#Format markers default)
+  - [XMean](#-XMean)
+  - [Format markers default](#-Format-markers-default)
+  - [Format markers custom](#-Format-markers-custom)
+  - [Format axis](#-Format-axis)
+  - [Import EXP data](#-import-exp-data)
+  - [Import EXP file](#-import-exp-file)
+  - [Import CSV data](#-import-csv-file)
 
 
 ### <img src="https://github.com/mattias-ek/mtools/blob/main/Icons/Scatter.png" width="25" height="25"> Plot
