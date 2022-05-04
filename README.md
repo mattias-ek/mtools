@@ -66,9 +66,13 @@ Adds a median line and uncertianty box around an existing series in a Calech/Car
 **Select series name (Optional)** - The series name the x values correspond too. If canceled the x values will be applied to the last series in the plot.
 
 #### Notes
+The position of the lines will **not** auto update if the cell values are changed! If the cell values change you have to manualy update the lines by running the XMean macro again.
+
 Only use this function on Caltech/Carnegie plots. There is a risk it will crash if there are N/A values in the Y values.
 
 If multiple rows of x values are given and no series name is given then the last row of the x values will be applied to the last series in the graph. Other x values will be ignored.
+
+You can delete the legend entried for the lines by simply clicking on then and pressing delete.
 
 #### Example
 https://user-images.githubusercontent.com/21944548/166475959-27c507e2-c9e1-4ff5-825a-4ae359ac8f29.mov
