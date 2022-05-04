@@ -15,8 +15,10 @@ First dowmload the *MTools.xlam* file and save it somewhere sensible on your har
   - [Format axis](#-Format-axis)
   - [Import EXP data](#-import-exp-data)
   - [Import EXP file](#-import-exp-file)
-  - [Import CSV data](#-import-csv-file)
-
+  - [Import CSV file](#-import-csv-file)
+  - [Import multiple EXP data](#-import-multiple-exp-data)
+  - [Import multiple EXP files](#-import-multiple-exp-files)
+  - [Import multiple CSV files](#-import-multiple-csv-files)
 
 ### <img src="https://github.com/mattias-ek/mtools/blob/main/Icons/Scatter.png" width="25" height="25"> Plot
 Creates a scatter plot with errorbars. 
