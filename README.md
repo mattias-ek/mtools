@@ -8,7 +8,7 @@ You can install the MTools either as a plugin which will be avaliable for all yo
 First dowmload the *MTools.xlam* file and save it somewhere sensible on your harddrive. Then in Excel go to *File -> Options -> Add-ins -> Manage: Excel Add-ins Go...* then click *Browse* and select the *MTools.xlam* file. To disable the plugin untick the plugin in this dialog. See the [offical documentation](https://support.microsoft.com/en-us/office/add-or-remove-add-ins-in-excel-0af570c4-5cf3-4fa9-9b88-403625a0b460) for additional assistance.
 
 ## Macros
-  - [Plot](#Plot)
+  - [Plot](#-Plot)
   - [XMean](#XMean)
   - [Format markers default](#Format markers default)
 
