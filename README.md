@@ -1,5 +1,9 @@
+<img src="https://github.com/mattias-ek/mtools/blob/main/Icons/Scatter.png" width="100" height="100">
+
 # MTools
-A VBA plugin for Excel to make plots and import files.
+A VBA plugin for Excel to make plots and import files. 
+
+The plugin adds a custom tab to the Ribbon named *MTools* containing [macros](#macros) for plotting and importing data into excel. 
 
 ## Usage
 You can install the MTools either as a plugin which will be avaliable for all your excel files or you can use *MTools.xlsm* as a template where the ribbon only appears for that file. In the latter case ensure that you have macros enabled.
