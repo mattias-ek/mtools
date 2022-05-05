@@ -9,7 +9,11 @@ The plugin adds a custom tab to the Ribbon named *MTools [version]* containing [
 You can install the MTools either as a plugin which will be avaliable for all your excel files or you can use *MTools.xlsm* as a template where the ribbon only appears for that file. In the latter case ensure that you have macros enabled.
 
 ### Installing MTools as a plugin
-First download the *MTools.xlam* file and save it somewhere sensible on your harddrive. Then in Excel go to *File -> Options -> Add-ins -> Manage: Excel Add-ins Go...* then click *Browse* and select the *MTools.xlam* file. To disable the plugin untick the plugin in this dialog. See the [offical documentation](https://support.microsoft.com/en-us/office/add-or-remove-add-ins-in-excel-0af570c4-5cf3-4fa9-9b88-403625a0b460) for additional assistance.
+First download the *MTools.xlam* file and save it somewhere sensible on your harddrive. 
+#### Windows
+In Excel go to *File -> Options -> Add-ins -> Manage: Excel Add-ins Go...* then click *Browse* and select the *MTools.xlam* file. To disable the plugin untick the plugin in this dialog. See the [offical documentation](https://support.microsoft.com/en-us/office/add-or-remove-add-ins-in-excel-0af570c4-5cf3-4fa9-9b88-403625a0b460) for additional assistance.
+#### Mac
+In Excel go to *Tools->Excel Add-ins Go* then click *Browse* and select the *MTools.xlam* file. To disable the plugin untick the plugin in this dialog. See the [offical documentation](https://support.microsoft.com/en-us/office/get-add-ins-for-office-for-mac-f33bd0af-3d2b-4c00-8c2e-45e2aa96cb9a) for additional assistance.
 
 ## Macros
   - [Plot](#-Plot)
