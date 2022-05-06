@@ -1,6 +1,6 @@
 <img src="https://github.com/mattias-ek/mtools/blob/main/Icons/Scatter.png" width="100" height="100">
 
-# MTools V1.0
+# MTools V1.0 
 A VBA plugin for Excel to make plots and import files. 
 
 The plugin adds a custom tab to the Ribbon named *MTools [version]* containing [macros](#macros) for plotting and importing data into excel. 
